@@ -5,7 +5,7 @@ date:   2023-11-12 23:18:00
 tags: [dev, dotnet, c#, code, apis, tests, patterns]
 ---
 
-Recentemente durante duas noites seguidas na semana acadêmica da Unochapecó, rolou também um <b>mini curso que ministrei</b> a convite da M8 Sistemas. 
+Recentemente durante duas noites seguidas na semana acadêmica da Unochapecó, rolou também um <b>mini curso que ministrei</b> a convite da empresa que trabalho. 
 
 O tema foi: 
 <b>APIs em Foco: Desmistificando códigos, persistência de dados e padrões em C#.</b>
@@ -16,7 +16,7 @@ Criamos também um projetinho em sala de aula, que aplica padrões e assuntos ab
 
 Foi muito bacana compartilhar um pouco do que sei, com a garotada que está nos semestres iniciais dos cursos de computação.
 
-OBS: O <a target="_blank" href="https://github.com/libnando/YZCollege">projeto que criamos em sala</a> tá aqui.
+OBS: O projeto que criamos em sala<a target="_blank" href="https://github.com/libnando/YZCollege">tá aqui</a>.
 
 ![Fernando Rosa - Unochapeco](/assets/images/posts/2023/11/fercurso_1.jpg)
 

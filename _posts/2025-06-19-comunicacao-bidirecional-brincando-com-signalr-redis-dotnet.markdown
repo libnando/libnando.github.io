@@ -17,7 +17,7 @@ A imagem abaixo representa o fluxo esplanado acima.
 Detalhado o escopo, criei 3 aplicações: CliWeb, CliWorker e Srv.
 
 - <b>CliWorker</b> é um worker que fica batendo no webhook a cada minuto notificando algo.
-- <b>CliWeb</b> é uma SPA em que o usuário abre a página, digita o nome e fica "monitorando" as atividades.
+- <b>CliWeb</b> é uma SPA em que o usuário abre a página, digita o nome e fica "monitorando" as atividades. Ao entrar/sair também notifica demais usuários.
 - <b>Srv</b> é o "core" da parada toda, nessa aplicação há o Hub para comunicação bidirecional e também um endpoint para o contexo de hook.
 
 ### Redis - Pub/Sub
@@ -26,7 +26,7 @@ O Pub/Sub do Redis é um mecanismo simples de notificações em tempo real, onde
 
 Mais detalhes aqui na <a target="_blank" href="https://redis.io/docs/latest/develop/interact/pubsub/">documentação oficial</a>.
 
-### SinalR
+### SignalR
 
 SignalR é uma biblioteca nativa .NET que facilita a comunicação em tempo real entre servidor e cliente, que permite atualizações instantâneas do servidor para o cliente.
 

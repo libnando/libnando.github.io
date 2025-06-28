@@ -34,7 +34,7 @@ Geralmente utiliza websockets quando disponível, mas pode alternar automaticame
 
 <a target="_blank" href="https://learn.microsoft.com/en-us/aspnet/signalr/overview/getting-started/introduction-to-signalr">Aqui</a> tem tudo sobre.
 
-### Show me de code
+### Show me the code
 
 Ok, vamos começar criando uma aplicação <b>WorkerService</b> e basicamente substituir a classe padrão <b>Worker.cs</b> pela abaixo.
 

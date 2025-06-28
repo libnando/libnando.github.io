@@ -71,7 +71,7 @@ public class Worker : BackgroundService
 
 Perfeito, aplicação 1 (CliWorker) tá ok. 
 
-Agora vamos para aplicação 2 (CliWeb), que é uma aplicação <b>AspNetCore Razor Pages</b>. Para instalar o signalR é usado libman, logo,basta criar o arquivo libman.json na raiz do projeto.
+Agora vamos para aplicação 2 (CliWeb), que é uma aplicação <b>AspNetCore Razor Pages</b>. Para instalar o SignalR é usado libman, logo,basta criar o arquivo libman.json na raiz do projeto.
 
 ```json
 {
@@ -90,7 +90,7 @@ Agora vamos para aplicação 2 (CliWeb), que é uma aplicação <b>AspNetCore Ra
 }
 ```
 
-Feito isso criar um arquivo chamado app.js dentro da pasta padrão (wwwroot/js) e colocar código abaixo.
+Feito isso, criar um arquivo chamado app.js dentro da pasta padrão (wwwroot/js) e colocar código abaixo.
 
 ```js
 const app = (function () {
@@ -395,4 +395,4 @@ No Redis as notificações.
 
 Aqui no meu  <a target="_blank" href="https://github.com/libnando/YZCollab">github</a> tem o projeto todo.
 
-o/
+Até mais. o/
